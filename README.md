@@ -1,4 +1,4 @@
-# Cyril Tovena
+# ✨ Cyril Tovena
 
 **Senior Principal Engineer at Grafana**
 
