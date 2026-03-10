@@ -8,7 +8,6 @@ I care about building products that real operators adopt, and making complex sys
 
 [Website](https://www.cyriltovena.dev) · [LinkedIn](https://www.linkedin.com/in/cyriltovena/) · [Sigil](https://github.com/grafana/sigil)
 
-| | |
-| --- | --- |
-| **Current focus** | AI observability · Agent systems · Distributed systems · Open source product development |
-| **Selected work** | Grafana Assistant · Assistant Investigations · Grafana Sigil · Grafana Loki · Grafana Pyroscope |
+**Current focus**: AI observability · Agent systems · Distributed systems · Open source product development
+
+**Selected work**: Grafana Assistant · Assistant Investigations · Grafana Sigil · Grafana Loki · Grafana Pyroscope
