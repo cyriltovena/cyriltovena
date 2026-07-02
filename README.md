@@ -10,4 +10,3 @@ I care about building products that real operators adopt, and making complex sys
 
 **Current focus**: AI observability · Agent systems · Distributed systems · Open source product development
 
-**Selected work**: Grafana Assistant · Assistant Investigations · Grafana Sigil · Grafana Loki · Grafana Pyroscope
