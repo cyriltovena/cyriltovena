@@ -1,6 +1,6 @@
 # ✨ Cyril Tovena
 
-**Senior Principal Engineer at Grafana**
+**Distinguished Engineer at Grafana**
 
 I built **Grafana Assistant** and **Assistant Investigations**, and I am now building **Sigil** for AI observability in production. My background is in distributed systems and open source, with work across **Loki** and **Pyroscope**.
 
